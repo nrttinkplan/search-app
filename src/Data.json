@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "image": "https://i0.wp.com/blog.gocollect.com/wp-content/uploads/2022/04/Batman125_Lee-Williams-Sinclair_Variant_6254774e187f66.20734062.jpg?ssl=1",
+        "title": "Batman",
+        "Description":"Justice League kurucusu ve lideri."
+    },
+
+    {
+        "id":2,
+        "image": "https://i.pinimg.com/736x/20/e9/9e/20e99e9e27a1e25917bc8d1968589a19.jpg",
+        "title": "Superman",
+        "Description":"Justice League kurucusu ve lideri."
+    },
+    {
+        "id":3,
+        "image": "https://firewireblog.com/wp-content/uploads/2020/03/etlasdswaaih0ic.jpeg",
+        "title": "Wonder Woman",
+        "Description":"Justice Leagu kurucusu ve lideri."
+    },
+    {
+        "id":4,
+        "image": "https://media.forbiddenplanet.com/products/57/1f/07d7286b6318e3e099ef1b5a37d630df5c89.jpeg",
+        "title": "Green Lantern",
+        "Description":"Justice League üyesi. Saf enerjiyi maddeleştirebilen bir yüzüğe sahip."
+    },
+    {
+        "id":5,
+        "image": "https://assets.comic-odyssey.com/products/covers/000/028/936/original/open-uri20180920-4-zcqlmp?1537438593",
+        "title": "Flash",
+        "Description":"Justice League üyesi. Hızlı hareket edebilme ve koşabilme yeteneğine sahip."
+    },
+    {
+        "id":6,
+        "image": "https://www.cardboardmemories.ca/cdn/shop/products/276f1719a8a799fef3e5406e18798faa_1200x1845.jpg?v=1621620496",
+        "title": "Aquaman",
+        "Description":"Justice League üyesi. Su canlılarıyla iletişim kurabilir."
+    },
+    {
+        "id":7,
+        "image": "https://media.forbiddenplanet.com/products/ea/40/62016d1c2fe4ab0dc6bf99609d3bf2df30ee.jpg",
+        "title": "Cyborg",
+        "Description":"Teen Titans'ın eski bir üyesi. Yarı insan yarı makine."
+    },
+    {
+        "id":8,
+        "image": "https://149455152.v2.pressablecdn.com/wp-content/uploads/2023/04/Green-Arrow-1-2.jpg",
+        "title": "Green Arrow",
+        "Description":"Justice League üyesi. Özel bir gücü yok."
+    },
+    {
+        "id":9,
+        "image": "https://tools.toywiz.com/_images/_webp/_products/lg/dec180595.webp",
+        "title": "Supergirl",
+        "Description":"Justice League üyesi. Krypton gezegininden gelmiştir."
+    },
+    {
+        "id":10,
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/captain_atom_7313.jpg",
+        "title": "Atom",
+        "Description":"Justice League üyesidir. Atom altı boyuta küçülebilir."
+    }
+
+
+]

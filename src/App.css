@@ -1,0 +1,62 @@
+body {
+  background-image: url('./image/bdbg2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-attachment: fixed;
+  
+}
+.container {
+  color: #ffff;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+.inputContainer {
+  margin: 20px 0;
+}
+
+.search {
+  padding: 12px 20px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.1);
+}
+
+.dataContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.data {
+  width: calc(33.3333% - 20px);
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.data img {
+  width: 100%;
+}
+
+.data h3 {
+    margin-top: 10px;
+    color: hsl(210, 96%, 50%);
+}
+
+.data p {
+  
+    text-align: center;
+    align-items: center;
+    justify-content:center; 
+    display: flex;
+    padding: 0px 10px;
+    color: #ffff ;
+    background-color: cadetblue;
+    border-radius: 10px;
+    width:200px; 
+    height:60px; 
+}
+
